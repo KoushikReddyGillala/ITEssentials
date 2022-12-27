@@ -1,1 +1,2 @@
 # ITEssentials
+linux commands
