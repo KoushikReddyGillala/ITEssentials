@@ -7,4 +7,10 @@ web developent - completed
 
 OOPS Concept- completed
 
+SDLC - completed
+
+CI CD - completed
+
+
+
 cloud computing and software development - In progress
