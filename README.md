@@ -13,4 +13,4 @@ CI CD - completed
 
 
 
-cloud computing and software development - In progress
+cloud computing - In progress
