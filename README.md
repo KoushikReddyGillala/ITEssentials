@@ -13,4 +13,5 @@ CI CD - completed
 
 
 
-cloud computing - In progress
+cloud computing - completed
+jira - completed
