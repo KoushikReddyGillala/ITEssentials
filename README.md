@@ -15,3 +15,6 @@ CI CD - completed
 
 cloud computing - completed
 jira - completed
+
+API - completed
+Testing - completed
