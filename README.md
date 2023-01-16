@@ -22,3 +22,6 @@ share point - completed
 
 confulence - completed
 Database - completed
+
+
+ALL CONCEPTS--- COMPLETED.
